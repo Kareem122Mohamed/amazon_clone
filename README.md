@@ -1,7 +1,7 @@
 # Live Preview: https://clone-dffaf.web.app/
 
 Coded by - [kareem shimes]
-![](/capture.PNG)
+![](/capture.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
